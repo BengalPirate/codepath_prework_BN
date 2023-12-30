@@ -4,7 +4,7 @@ Submitted by: **Brandon Newton**
 
 **codepath_prework_introduction_and_button** is an app that displays information about my self above a button that changes the background color of the app
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
