@@ -24,13 +24,12 @@ The following **required** functionality is completed:
   </div>
 ## App Brainstorming (Step 4)
 
-## Notes
-
-Describe any challenges encountered while building the app.
+- Improve the UI by using different fonts
+- Iplement a way to change the color of the text as well
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Brandon Newton]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
